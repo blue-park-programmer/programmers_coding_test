@@ -1,10 +1,10 @@
 # [level 2] 무인도 여행 - 154540 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/154540) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/154540?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 62.7 MB, 시간: 20.25 ms
+메모리: 64.2 MB, 시간: 20.50 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 23일 10:14:20
+2026년 07월 24일 10:26:40
 
 ### 문제 설명
 
